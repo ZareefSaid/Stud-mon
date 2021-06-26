@@ -2,6 +2,7 @@ import discord
 import os
 import random
 from discord.ext import commands
+from keep_alive import keep_alive
 import pandas as pd
 
 global randnum
@@ -152,7 +153,7 @@ def enemybar():
       enemy_healthbar = ':green_square: :green_square: :red_square: :red_square: :red_square: :red_square: :red_square: :red_square: :red_square: :red_square:'
   if enemy_health == 1:
       enemy_healthbar = ':green_square: :red_square: :red_square: :red_square: :red_square: :red_square: :red_square: :red_square: :red_square: :red_square:'
-  if enemy_health == 0:
+  if enemy_health <= 0:
       enemy_healthbar = ':red_square: :red_square: :red_square: :red_square: :red_square: :red_square: :red_square: :red_square: :red_square: :red_square:'
 
 @client.command()
@@ -237,7 +238,7 @@ async def remove(ctx, questionremoved):
   await ctx.send(f'Question Number **{questionremoved}** has been removed!')
 
 
-
+keep_alive()
 client.run(os.getenv('TOKEN'))
 
 
