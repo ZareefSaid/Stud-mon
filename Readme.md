@@ -22,5 +22,5 @@ This was my first hackathon and I learned a lot about time management and my cap
 ## What's next for Studémon
 Although I'm proud of what I accomplished, there are still many features I'd like to add. One of the features I'd like to add is multiplayer, this makes it so many different people can play against eachother and have more fun than if they were playing alone. Another feature I'd like to add is question categories, this would make it so you can study in a specific area instead of something broad like all questions. I would also like to add a leaderboard so people can compete to get higher and higher, this would also give teachers and professionals the ability to see how their students are doing and where they need to help them improve.
 ## Demonstration
-If you are interested in learning how to use the bot use these playing instructions: [![playing instructions](https://cdn.discordapp.com/attachments/748927062496116806/858549947434401802/studemon_logo_color.jpg)](https://youtu.be/5B95BLkznDw)
+If you are interested in learning how to use the bot click on the image for a youtube video explaining how to play: [![playing instructions](https://cdn.discordapp.com/attachments/748927062496116806/858549947434401802/studemon_logo_color.jpg)](https://youtu.be/5B95BLkznDw)
 
