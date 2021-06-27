@@ -21,3 +21,5 @@ I'm proud of being able to create a website and a discord bot in such a short am
 This was my first hackathon and I learned a lot about time management and my capabilities. This was the first time I used the discord.py API in such a large scale and learned many things that I didn't previously know. 
 ## What's next for Studémon
 Although I'm proud of what I accomplished, there are still many features I'd like to add. One of the features I'd like to add is multiplayer, this makes it so many different people can play against eachother and have more fun than if they were playing alone. Another feature I'd like to add is question categories, this would make it so you can study in a specific area instead of something broad like all questions. I would also like to add a leaderboard so people can compete to get higher and higher, this would also give teachers and professionals the ability to see how their students are doing and where they need to help them improve.
+## Demonstration
+If you are interested in learning how to use the bot go to this youtube link: [playing instructions](https://youtu.be/5B95BLkznDw)
